@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a { 
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    border-bottom: 5px solid black;
+    margin: 35px 35px 35px 35px
+}
+
+nav {
+    padding: 5px;
+    margin: 75px 50px 30px 100px;
+}
+
+h1 {
+   text-align: center; 
+}
+
+main img {
+    border-left: 5px dotted black;
+    margin: 20px;
+}
+
+main p {
+   border: 1px solid black;
+   padding: 10px 10px 10px 10px;
+   border-radius: 10px;
+}
+
+a {
+    color: blue;
+    border-bottom: 1px solid blue;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
